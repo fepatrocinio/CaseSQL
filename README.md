@@ -17,5 +17,5 @@ Os cases incluem extração de dados, cálculos de métricas e manipulação de 
 ## Foram aplicandos:
 
 - Análises Exploratórias  
-- Consultas SQL
+- Consultas SQL (com Python)
 - Análises complementares e gráficos para melhor detalhamento do resultado. 
