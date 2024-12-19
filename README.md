@@ -20,4 +20,4 @@ Os cases incluem extração de dados, cálculos de métricas e manipulação de 
 - Consultas SQL
 - Análises complementares e gráficos para melhor detalhamento do resultado. 
 
----
+
